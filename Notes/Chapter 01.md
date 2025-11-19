@@ -57,5 +57,3 @@ bacon + 1
 ---
 ---
 
-# Practice Questions Chapter 2
-
